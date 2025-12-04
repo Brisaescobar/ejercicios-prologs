@@ -17,7 +17,6 @@ duenio(sam, jessie, 3).
 juguete(woody, deTrapo(vaquero)).
 juguete(jessie, deTrapo(vaquero)).
 juguete(jessiee, deTrapo(vaquero)).
-juguete(buzz, deAccion(espacial, [original(casco)])).
 juguete(soldados, miniFiguras(soldado, 60)).
 juguete(monitosEnBarril, miniFiguras(mono, 50)).
 juguete(seniorCaraDePapa,caraDePapa([ original(pieIzquierdo), original(pieDerecho),repuesto(nariz)])).
