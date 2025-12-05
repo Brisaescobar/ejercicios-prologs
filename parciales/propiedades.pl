@@ -79,5 +79,3 @@ posiblesPropiedades([Propiedad | Propiedades], Dinero, [Propiedad | Posibles]) :
 
 posiblesPropiedades([_ | Propiedades], Dinero, Posibles) :-
     posiblesPropiedades(Propiedades, Dinero, Posibles).
-
-
