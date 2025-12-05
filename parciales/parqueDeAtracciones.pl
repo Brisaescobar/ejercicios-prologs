@@ -13,7 +13,7 @@ atraccion(parqueAcuatico, toboganGigante, 0, 150).
 atraccion(parqueAcuatico, rioLento, 0, 0).
 atraccion(parqueAcuatico, piscinaDeOlas, 5, 0).
 
-%----------------------------------------------------------------
+%---------------------------------------------------------------
 % pasaportes 
 
 pasaporte(nina, basico, 20). 

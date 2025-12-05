@@ -29,7 +29,7 @@ esColeccionista(sam).
 
 %valorDeFelicidad(Duenio,Valor)
 
-% ----------------------------------------------------------------
+% ---------------------------------------------------------------
 
 % 1a tematica relaciona un juguete y su tematica 
 % general 
